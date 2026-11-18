@@ -119,10 +119,35 @@
 88. Oppenheimer
 89. Anora
 90. One Battle After Another 
-91. 
+91. Spotlight
+92. 
 
 
 # Documentory
 
 1. AlphaGo - The Movie
 2. The Elephant Whisperers
+3. A.I. Revolution | Full Documentary | NOVA | PBS
+4. The Thinking Game
+5. Lo And Behold: Reveries of the Connected World
+6. My Octopus Teacher 
+7. Born to Be Wild - 2011
+8. Jane Goodall: An Inside Look
+9. Wild Karnataka
+10. 
+
+# Anime
+
+1. Nausicaä of the Valley of the Wind
+2. The Secret World of Arrietty 
+3. The Tale of The Princess Kaguya
+4. The Wind Rises
+5. When Marnie Was There
+6. Castle in the Sky
+7. My Neighbor Totoro 
+8. Princess Mononoke
+9. Spirited Away
+10. Howl’s Moving Castle
+11. Ponyo 
+12. Arjun – The Warrior prince
+13. Ramayana: The Legend of Prince Rama
